@@ -8,11 +8,13 @@ Imagine adding a vibrant 'Gen Z Trends' section—perfect for capturing the late
 
 This algorithm will bring the Gen Z Trends on our finger-tips…
 
-Workflow of the solution proposed:
+Working of the solution proposed:
 
 ![image](https://github.com/user-attachments/assets/296c1ce9-a866-49fa-8e76-b428f79362cc)
+![image](https://github.com/user-attachments/assets/c085a658-626b-4d72-96e4-82a8a413b1f8)
 
-![image](https://github.com/user-attachments/assets/c3797658-0b1d-4ba8-8423-b63a7fe91c02)
+
+
 
 Our Proposed Website:
 
